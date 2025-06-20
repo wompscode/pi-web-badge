@@ -1,0 +1,14 @@
+{
+    "title": "phoebe's stupid awful badge",
+    "commands": [
+    {
+        "title": "uname",
+        "command": "uname -a"
+    }, 
+    {
+        "title": "neofetch",
+        "command": "neofetch --stdout"
+    }],
+    "staticPath": "public",
+    "logger": false
+}
